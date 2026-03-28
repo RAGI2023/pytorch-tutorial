@@ -8,3 +8,5 @@ runs/
 *.pth
 *.ckpt
 logs/
+
+__pycache__/
