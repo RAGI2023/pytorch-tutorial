@@ -3,3 +3,8 @@
 data/
 .ipynb_checkpoints
 
+runs/
+*.pt
+*.pth
+*.ckpt
+logs/
