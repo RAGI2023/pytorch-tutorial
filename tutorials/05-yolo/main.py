@@ -7,7 +7,7 @@ model = YOLO("yolov8n.pt")
 model.info()
 
 # Train the model on the COCO8 example dataset for 100 epochs
-results = model.train(data="coco8.yaml", epochs=1, imgsz=640)
+results = model.train(data="coco8.yaml", epochs=0, imgsz=640)
 
 # Run inference with the YOLOv8n model on the 'bus.jpg' image
 results = model("tutorials/05-yolo/bus.jpg")
