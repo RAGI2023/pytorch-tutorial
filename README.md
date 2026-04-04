@@ -309,8 +309,8 @@ python tutorials/07-segment/main.py
 
 ## PART 4：K230 上手人脸识别
 人脸识别项目上手
-![[imgs/K230视觉模块-标准版_9.jpg]]
-代码在 `K230视觉模块\程序源码\07.Face\01.face_detection.py`
-![[imgs/K230视觉模块-标准版_10.jpg]]
+![K230视觉模块](imgs/K230视觉模块-标准版_9.jpg)
 随后点击左下的`串行终端`，可以看到人脸识别结果在串口输出
-![[imgs/CanMV.png]]
+![K230视觉模块](imgs/K230视觉模块-标准版_10.jpg)
+代码在 `K230视觉模块\程序源码\07.Face\01.face_detection.py`
+![CanMV](imgs/CanMV.png)
